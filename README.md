@@ -1,7 +1,7 @@
 # BlogPost-React
 BlogPost App built with React and Redux 
 
-![alt text](https://github.com/galatigiuseppe "Logo Title Text 1")
+![alt text](https://github.com/galatigiuseppe/BlogPost-React/blob/master/Screen%20Shot%202018-02-20%20at%2010.27.15.png "ScreenShot")
 
 
 
